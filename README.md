@@ -4,3 +4,5 @@ Hola muchachos, para abrir estos archivos puede usar estas herramientas
 - [ ] [Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
 - [ ] Jupyter notebooks 
 - [ ] [Canopy enthought.](https://www.enthought.com/product/canopy/")
+
+## Muchachos, la idea es que se construya y se documente mejor este repo para enseñar ciencia de datos. 
